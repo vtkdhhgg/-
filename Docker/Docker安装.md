@@ -113,7 +113,7 @@ docker run hello-world
 
 
 
-# Docke 镜像加速
+# Docker 镜像加速
 
 国内从 DockerHub 拉取镜像有时会遇到困难，此时可以配置镜像加速器。Docker 官方和国内很多云服务商都提供了国内加速器服务，例如：
 
